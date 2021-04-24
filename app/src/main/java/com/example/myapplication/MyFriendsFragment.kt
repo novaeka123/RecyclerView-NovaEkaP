@@ -17,6 +17,15 @@ class MyFriendsFragment : Fragment() {
         listTeman= ArrayList()
         listTeman.add(MyFriend("Samsul","Laki-Laki","samsul@stimata.ac.id","08889898923","Malang"))
         listTeman.add(MyFriend("Supri","Laki-Laki","Supri@gmail.com","08892323123","Kab.Malang"))
+        listTeman.add(MyFriend("Refi","Laki-Laki","Refi@gmail.com","08822323123","Kab.Malang"))
+        listTeman.add(MyFriend("Rani","Perempuan","Rani@gmail.com","08812323123","Bandung"))
+        listTeman.add(MyFriend("Nada","Perempuan","Nada@gmail.com","08892333123","Bandung"))
+        listTeman.add(MyFriend("Jupri","Laki-Laki","Jupri@gmail.com","08799232223","Kab.Malang"))
+        listTeman.add(MyFriend("Sulis","Perempuan","Sulis@gmail.com","08799232223","Kab.Malang"))
+        listTeman.add(MyFriend("Nova","Laki-Laki","Nova@gmail.com","08799232223","Kab.Malang"))
+        listTeman.add(MyFriend("Mei","Perempuan","Mei@gmail.com","08799232223","Kab.Malang"))
+        listTeman.add(MyFriend("Sasa","Perempuan","Sasa@gmail.com","08799232223","Surabya"))
+
     }
 
     private fun tampilTeman(){

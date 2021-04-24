@@ -25,7 +25,7 @@ class MyFriendsFragment : Fragment() {
         listTeman.add(MyFriend("Nova","Laki-Laki","Nova@gmail.com","08799232223","Kab.Malang"))
         listTeman.add(MyFriend("Mei","Perempuan","Mei@gmail.com","08799232223","Kab.Malang"))
         listTeman.add(MyFriend("Sasa","Perempuan","Sasa@gmail.com","08799232223","Surabya"))
-
+        listTeman.add(MyFriend("Rani","Perempuan","Rani@gmail.com","08199232223","Solo"))
     }
 
     private fun tampilTeman(){
